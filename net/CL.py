@@ -40,7 +40,7 @@ class CL_MLP(nn.Module):
 
             else:
 
-                cl_loss = self._InfoNCE(h_t_1[i], h_t_2[i])
+                cl_loss += self._InfoNCE(h_t_1[i], h_t_2[i])
 
 
         return h1, h2, cl_loss
