@@ -1,4 +1,4 @@
-# The current GitHub page is (https://github.com/FrancisXZhang/GCN_Anticipation). If you encounter any issues with my previous projects, please refer to this page.
+The current GitHub page for this paper is (https://github.com/FrancisXZhang/CDGIN). If you encounter any issues with my previous projects, please refer to this page.
 
 # Dynamic Correlation-Distance Graph Learning for Treatment Response Prediction from rs-fMRI
 Example Code for the paper Dynamic Correlation-Distance Graph Learning for Treatment Response Prediction from rs-fMRI
